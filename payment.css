@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body {
+    background-color: #000033;
+}
+
+.fa-angle-left {
+    margin-left: 80px;
+    margin-top: 35px;
+    
+    padding-right: ;
+}
+
+h1 {
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.box {
+    height: 400px;
+    width: 40%;
+    float: left;
+    margin-left: 200px;
+    background-color: #000033;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 15px;
+    font-family: sans-serif;
+    margin: 5px 25px;
+    color: #fff;
+}
+
+.form {
+    display: inline-block;
+}
+
+.form::placeholder {
+    margin: ;
+}
+
+.form #card {
+    height: 40px;
+    width: 220px;
+    margin-left: 25px;
+    padding-left: 15px;
+    border-radius: 3px;
+    border: none;
+    background-color: #637383;
+}
+
+.form #card::placeholder {
+    color: #D3D3D3;
+}
+
+.head {
+    margin-left: 35px;
+}
+
+.form #date {
+    height: 40px;
+    width: 100px;
+    margin-left: 35px;
+    padding-left: 15px;
+    border-radius: 3px;
+    border: none;
+    background-color: #637383;
+}
+
+.form #date::placeholder {
+    color: #D3D3D3;
+}
+
+.form h2 {
+    margin-top: 25px;
+}
+
+.head2 {
+    margin-left: 35px;
+}
+
+.form #pin {
+    height: 40px;
+    width: 120px;
+    margin-left: 35px;
+    padding-left: 15px;
+    border-radius: 3px;
+    border: none;
+    background-color: #637383;
+}
+
+.form #pin::placeholder {
+    color: #D3D3D3;
+}
+
+.form #code {
+    height: 40px;
+    width: 220px;
+    margin-left: 25px;
+    padding-left: 15px;
+    border-radius: 3px;
+    border: none;
+    background-color: #637383;
+}
+
+.form #code::placeholder {
+    color: #D3D3D3;
+}
+
+.aside {
+    height: 400px;
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+    margin-right: 50px;
+    background-color: #263c5a;
+    position: initial;
+    border-radius: 5px;
+}
+
+.aside p {
+    margin-left: 65px;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #DCDCDC;
+}
+
+.fa-bolt {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+    padding: 7px 10px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: darkorange;
+
+}
+
+.fa-check {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+    padding: 7px 6px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: darkorange;
+}
+
+.aside #bold {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.aside #line {
+    color: #DCDCDC;
+    border: 1px solid;
+    background-color: #DCDCDC;
+    margin: 10px 25px;
+}
+
+.aside ul {
+    list-style: none;
+    margin-left: 25px;
+    margin-top: 0;
+}
+
+.aside ul li {
+    padding: 5px;
+    padding-left: 0;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #DCDCDC;
+}
+
+.aside ul li span {
+    float: right;
+    padding-right: 20px;
+    font-family: sans-serif;
+    color: #DCDCDC;
+}
+
+ul #yellow {
+    color: darkorange;
+}
+
+.btn {
+    width: 90%;
+    height: 40px;
+    margin: 3px 5%;
+    background-color: darkorange;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+}
+
+.aside .btn a {
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #000033;
+    font-weight: bold;
+}
+
+h3 {
+    margin-left: 0;
+    margin-top: 60px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
+
+.img {
+    background-color: #263c5a;
+    width: 100%;
+    float: left;
+    height: 80px;
+    padding: 18px 20px;
+    margin: 2px 0;
+    border-radius: 5px;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #263c5a;
+    height: 50%;
+}
